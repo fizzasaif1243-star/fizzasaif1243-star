@@ -54,9 +54,10 @@ I am a passionate developer focused on building functional, user-centric mobile 
 
 ## 📈 My GitHub Stats
 
+## 📈 My GitHub Stats
+
 ![Fizza Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fizzasaif1243-star&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizzasaif1243-star&layout=compact&theme=radical)
-
 ---
 
 ## 🤝 Connect with Me
