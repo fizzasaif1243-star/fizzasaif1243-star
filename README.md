@@ -46,7 +46,7 @@ I am a passionate developer focused on building functional, user-centric mobile 
 *A series of laboratory implementations demonstrating the core phases of a programming language compiler.*
 - **Core Tech:** C#, Windows Forms
 - **Key Features:** Programmed functional lexical and syntax analyzers to parse, validate, and tokenize text structures.
-
+   👉 [View Repository](https://github.com/fizzasaif1243-star/Mini-Compiler)
 ---
 
 ## 🤝 Connect with Me
